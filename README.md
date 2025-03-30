@@ -44,7 +44,10 @@ Sou uma desenvolvedora front-end  em formação, com paixão por criar interface
 
 ###
 
+
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 
