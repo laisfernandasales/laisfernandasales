@@ -33,7 +33,6 @@ Sou uma desenvolvedora front-end  em formação, com paixão por criar interface
 </div>
 
 
-<hr />
 
 <div align="left">
   <a href="mailto:teuemail@gmail.com" target="_blank">
