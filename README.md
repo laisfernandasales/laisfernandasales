@@ -45,7 +45,7 @@ Sou uma desenvolvedora front-end em formação, com paixão por criar interfaces
 
 <div align="left">
   <h3>📬 Contato:</h3>
-  <a href="mailto:teuemail@gmail.com" target="_blank">
+  <a href="mailto:lais.melofernanda15@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
   <img width="10" />
