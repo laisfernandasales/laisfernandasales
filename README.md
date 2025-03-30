@@ -3,7 +3,7 @@
 <p align="left">
 Sou uma desenvolvedora front-end  em formação, com paixão por criar interfaces modernas e funcionais. Tenho conhecimentos em <strong>HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS</strong> e estou a aprofundar meus estudos em <strong>Next.js</strong> e <strong>FastAPI</strong>. Estou sempre à procura de novos desafios que me ajudem a crescer na área da tecnologia.
 </p>
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
