@@ -14,7 +14,7 @@ Sou uma desenvolvedora front-end em formação, com paixão por criar interfaces
 ###
 
 <div align="left">
-  <h3>🛠️ Tecnologias que uso e estudo:</h3>
+  <h3>🛠️ Tecnologias</h3>
 
   <!-- Linguagens -->
   <div>
