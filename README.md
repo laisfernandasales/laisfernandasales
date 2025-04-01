@@ -1,7 +1,7 @@
 <h2 align="left">Olá 👋! Eu sou a Lais Sales</h2>
 
 <p align="left">
-Sou uma desenvolvedora front-end em formação, com paixão por criar interfaces modernas e funcionais. Tenho conhecimentos em <strong>HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS</strong> e estou a aprofundar meus estudos em <strong>Next.js</strong> e <strong>FastAPI</strong>. Também já estudei <strong>C</strong> e <strong>C++</strong>, o que me ajudou a desenvolver lógica e pensamento computacional. Estou sempre à procura de novos desafios que me ajudem a crescer na área da tecnologia.
+Sou Desenvolvedora Front-End , com paixão por criar interfaces modernas e funcionais. Tenho conhecimentos em <strong>HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS,Mui</strong> e estou a aprofundar meus estudos em <strong>Next.js</strong> e <strong>FastAPI</strong>. Também já estudei <strong>C</strong> e <strong>C++</strong>, o que me ajudou a desenvolver lógica e pensamento computacional. Estou sempre à procura de novos desafios que me ajudem a crescer na área da tecnologia.
 </p>
 
 ###
